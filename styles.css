@@ -11,9 +11,7 @@ body {
   background-color: whitesmoke;
 }
 .grid {
-  /* adicione o código correto para colocar os elementos da grade
-  um ao lado do outro igualmente.   */
-
+  align-items: baseline;
   flex-wrap: wrap;
   font-family: sans-serif;
 }
